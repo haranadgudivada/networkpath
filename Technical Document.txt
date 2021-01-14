@@ -1,0 +1,9 @@
+Following are the steps to run this application in your local system.
+
+Step 1: Download the index file from GitHub
+
+Step 2: Open your command line
+
+Step 3: Execute command "php index_file_path csv_file_path"(Eg: php C:\xampp\htdocs\network_path\index.php C:\xampp\htdocs\network_path\test.csv) and press enter
+
+Step 4: Follow the instructions, give the input and you will get the output.
